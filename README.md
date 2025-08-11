@@ -50,14 +50,11 @@ TensorFlow/Keras – Model building and training
 
 ##Project Structure
 ```bash
-your-project/
+shallow-NN-in-knee-ligament-tears/
 │
 ├── shallow_NN_code.ipynb   # Main Jupyter Notebook
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project documentation
-├── data/                   # (Optional) Dataset or download instructions
-├── .gitignore              # Ignore unnecessary files
-└── assets/                 # (Optional) Images/screenshots
 ```
 
 🚀 Usage
